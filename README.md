@@ -7,7 +7,7 @@ Para ganhar familiaridade e demonstrar meu conhecimento nos aspectos solicitados
  - Shiny e Plotly
  - Conhecimentos em Análise de Dados
 
-*Como tenho anos de experiência profissional atuando com Modelagem de dados, Banco de Dados e SQL, investi um tempo menor para demonstrar meus conhecimentos nessas áreas, **e disponibilizei neste neste outro repositório***
+*Como tenho anos de experiência profissional atuando com Modelagem de dados, Banco de Dados e SQL, investi um tempo menor para demonstrar meus conhecimentos nessas áreas, **e disponibilizei neste neste outro notebook***
 
 ## Descrição técnica
 ### Solução composta por um *back-end* e um *front-end* (aplicativo web)
