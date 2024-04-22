@@ -87,7 +87,9 @@ Listening on http://127.0.0.1:8501
 
 No exemplo acima, a senha informada foi "34.32.225.251" e a aplicação web Shiny ficou disponível no endereço "https://green-taxis-begin.loca.lt", porém isso varia de acordo com sua sessão no Google Colab. Usar os valores citados acima não vai funcionar, para funcionar deve-se usar os valores que aparecem na hora da execução
 
-A seguir um vídeo demonstrando o passo a passo
-**todo video YouTube**
+A seguir um vídeo demonstrando o passo a passo:
+https://github.com/bgd94/bolsa-ic-Fapesp/assets/119139460/9a219645-bbd3-41e4-8d43-d7a6f3ad4e47
+
+
 
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
